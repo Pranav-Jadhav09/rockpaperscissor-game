@@ -10,7 +10,7 @@
 <img src="./assets/images/favicon-512.png" style="width: 150px">
 
 <h2 align="center">Rock Paper Scissor Game</h2>
-Built a Rock Paper Scissor game using JavaScript learned about 
+Built a Rock Paper Scissor game using JavaScript.
 Play the ultimate Rock Paper Scissors game! HTML, CSS, and JavaScript combine for a captivating experience. Challenge the computer, strategize your moves, and claim victory!
 
 <a href="https://pranav-jadhav09.github.io/number-nest-game/"><strong>➥ Play Now</strong></a>
