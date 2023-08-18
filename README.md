@@ -13,7 +13,7 @@
 Built a Rock Paper Scissor game using JavaScript.
 Play the ultimate Rock Paper Scissors game! HTML, CSS, and JavaScript combine for a captivating experience. Challenge the computer, strategize your moves, and claim victory!
 
-<a href="https://pranav-jadhav09.github.io/number-nest-game/"><strong>➥ Play Now</strong></a>
+<a href="https://rockpaperscissor-jrpranav.netlify.app/"><strong>➥ Play Now</strong></a>
 
 </div>
 
